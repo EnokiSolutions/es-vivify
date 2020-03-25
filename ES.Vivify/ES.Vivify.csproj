@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+        <Authors>Cliff Hammerschmidt</Authors>
+        <Copyright>EnokiSolutions ©2020</Copyright>
+        <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    </PropertyGroup>
+
+</Project>
